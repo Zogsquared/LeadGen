@@ -32,6 +32,6 @@ for item in itemlist:
 print(nlp)
     #print(address)
 
-category = input("Enter Category name")
+category = input("Enter Category name: ")
 
 print(len(itemlist))
